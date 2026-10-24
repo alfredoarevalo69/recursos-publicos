@@ -16,7 +16,7 @@ Este directorio recopila especificaciones técnicas, guías de despliegue y aná
 
 ### 2. Fundamentos y Arquitectura de Autoservicio de Restablecimiento de Contraseña (MS SSPR)
 * **Descripción:** Análisis técnico sobre la implementación, flujos de autenticación multifactor (MFA), integración con directorios híbridos y políticas de seguridad para el Autoservicio de Restablecimiento de Contraseña en Microsoft Entra ID.
-* **📄 Documento PDF:** [Descargar / Consultar Especificación](./Que%20es%20MS%20SSPR.pdf)
+* **📄 Documento PDF:** [Descargar / Consultar Especificación](./Que-es-Microsoft-SSPR.pdf)
 
 ---
 
