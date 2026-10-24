@@ -1,12 +1,24 @@
-# Arquitectura y Diseño Avanzado de Azure Virtual WAN
+# [Título del Documento o Tema Técnico]
 
-Documento técnico oficial de ingeniería sobre la implementación de **Azure Virtual WAN**, topologías de red de tránsito global (*Global Transit Network*), integración de dispositivos SD-WAN, Secured Virtual Hubs con Azure Firewall y conectividad Multi-Cloud (AWS/GCP).
+> **Publicado por:** Veyxara Core / Alfredo Arévalo  
+> **Sitio Oficial:** [Veyxara.com](https://veyxara.com)  
+> **Repositorio:** [Recursos Públicos - Veyxara](https://github.com/alfredoarevalo69/recursos-publicos)
 
-## Contenido del Documento
-* **Topología Hub-and-Spoke administrada** y red global de tránsito de Microsoft.
-* **Matriz de Decisión técnica**: Azure Virtual WAN frente a NVAs tradicionales y VNet Peering manual.
-* **Escenarios avanzados**: Conectividad multi-nube como IPsec Initiator y manejo de rangos IP solapados (M&A).
-* **Seguridad perimetral**: Enrutamiento basado en intenciones (*Intent-Based Routing*) y Secured Virtual Hubs.
+---
 
-📄 **Descarga directa:** [Consultar el documento PDF completo](./arquitectura-de-azure-virtual-wan.pdf)
+## Descripción Técnica
+Breve resumen ejecutivo del documento (2 o 3 líneas orientadas a arquitectura, infraestructura o ciberseguridad).
+
+## Contenido del Archivo PDF
+* **Punto clave 1:** Descripción técnica detallada.
+* **Punto clave 2:** Consideraciones de diseño o topología.
+* **Punto clave 3:** Matriz de decisión o buenas prácticas.
+
+---
+
+### 📄 Descarga y Referencia
+Puedes consultar el archivo PDF oficial directamente en este repositorio:
+👉 **[Descargar Documento Técnico en PDF](./nombre-del-archivo.pdf)**
+
+> *Este documento forma parte de la biblioteca técnica de Veyxara Core. Si compartes este material, por favor mantén la atribución al autor y al sitio oficial.*
 
