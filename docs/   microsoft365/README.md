@@ -1,7 +1,7 @@
 # Repositorio Técnico: Microsoft 365 e Infraestructura Endpoint
 
 > **Publicado por:** Veyxara Core / Alfredo Arévalo  
-> **Sitio Oficial:** [sysarmortech.com](https://sysarmortech.com)  
+> **Sitio Oficial:** [veyxara.com](https://veyxara.com)  
 > **Repositorio:** [Recursos Públicos - Veyxara](https://github.com/alfredoarevalo69/recursos-publicos)
 
 ---
