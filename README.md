@@ -1,13 +1,13 @@
 # Veyxara Core // Repositorio de Recursos Públicos
 
-> **Autor:** Alfredo Arévalo[cite: 1]  
-> **Plataforma Oficial:** [veyxara.com](https://veyxara.com)[cite: 5]  
+> **Autor:** Alfredo Arévalo  
+> **Plataforma Oficial:** [veyxara.com](https://veyxara.com) 
 > **Enfoque:** Infraestructura TI, ciberseguridad, automatización y gestión de entornos híbridos Microsoft.
 
 ---
 
 ## 📌 Propósito de este Repositorio
-Este espacio está dedicado al intercambio técnico, la investigación y la documentación abierta[cite: 7]. Aquí se almacenan guías de arquitectura, especificaciones en PDF y scripts de referencia expuestos en los artículos técnicos de **Veyxara Core**.
+Este espacio está dedicado al intercambio técnico, la investigación y la documentación abierta. Aquí se almacenan guías de arquitectura, especificaciones en PDF y scripts de referencia expuestos en los artículos técnicos de **Veyxara Core**.
 
 ---
 
@@ -25,4 +25,4 @@ El contenido está modularizado por áreas de especialización técnica:
 ## 📄 Licencia y Uso del Material
 Los documentos y recursos técnicos alojados en este repositorio se comparten bajo los principios de código abierto y documentación libre orientada a la comunidad de ingeniería. 
 
-*Si reutiliza o comparte estos materiales, mantenga la atribución técnica correspondiente hacia el autor y el sitio oficial [veyxara.com](https://veyxara.com)[cite: 5].*# recursos-publicos
+*Si reutiliza o comparte estos materiales, mantenga la atribución técnica correspondiente hacia el autor y el sitio oficial [veyxara.com](https://veyxara.com).*# recursos-publicos
