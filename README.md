@@ -24,6 +24,10 @@ El contenido está organizado por áreas de especialización técnica:
   - Administración moderna de endpoints, despliegue de aplicaciones Win32 mediante Intune y políticas de identidad (SSPR / Entra ID).
 - **`/Azure/PowerShell/`**
   - Scripts de automatización para aprovisionamiento, configuración y administración de recursos Microsoft Azure mediante PowerShell.
+ - **`/Azure/wallpapers/`**
+  - Colección de fondos de pantalla y recursos gráficos de temática tecnológica.
+Veyxara Core: diseños originales desarrollados bajo la identidad visual de la marca.
+Tech Collection: selección de composiciones visuales relacionadas con tecnología, infraestructura, innovación y cultura digital.
 
 La estructura se ampliará progresivamente con nuevos recursos, documentación y ejemplos técnicos.
 
